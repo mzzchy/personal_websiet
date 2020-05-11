@@ -1,0 +1,179 @@
+{
+    "name": "Zizeng Meng",
+    "email": "zizengmeng98@gmail.com",
+    "resume": "zizengmeng_resume.pdf",
+    "phone": "6472960819",
+    "website": "#",
+    "job_title": "Full Stack Developer",
+    "profile": "nothing for now",
+    "experiences": 
+    [
+        {
+            "company": "Google",
+            "location": "Mountain View",
+            "title": "Senior Software Engineer",
+            "time": "2016 - Present",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.",
+            "projects": 
+            [
+                "Lorem ipsum dolor sit amet",
+                "Donec pede justo ante",
+                "Maecenas tempus tellus eget"
+            ]
+        },
+        {
+            "company": "Twitter",
+            "location": "New York",
+            "title": "Lead Software Engineer",
+            "time": "2015 - 2016",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.",
+            "projects": []
+        },
+        {
+            "company": "Apple",
+            "location": "London",
+            "title": "Software Engineer",
+            "time": "2013 - 2015",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.",
+            "projects": []
+        },
+        {
+            "company": "Startup Hub",
+            "location": "London",
+            "title": "Founder & Lead Developer",
+            "time": "2012 - 2013",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.",
+            "projects": []
+        }
+
+    ],
+    "educations":
+    [
+        {
+            "degree":"MSc Computer Science",
+            "name":"University College of London",
+            "time":"2016 - 2012",
+            "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient"
+        },
+        {
+            "degree":"MSc Applied Mathematics",
+            "name":"University of Bristol",
+            "time":"2010 - 2016",
+            "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient"
+        },
+        {
+            "degree":"BSc Creative Technology",
+            "name":"University of Bristol",
+            "time":"2007 - 2010",
+            "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient"
+        }
+    ],
+    "skills":
+    {
+        "top_skills":
+        [
+            {
+                "skill_name":"Python & Django",
+                "percentage":"98",
+                "level":"Expert, 8 years",
+                "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient"
+            },
+            {
+                "skill_name":"JavaScript",
+                "percentage":"90",
+                "level":"Expert, 8 years",
+                "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient"
+            },
+            {
+                "skill_name":"React & Angular",
+                "percentage":"85",
+                "level":"Advanced, 4 years",
+                "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient"
+            }
+        ],
+        "other_skills":
+        [
+            "HTML5",
+            "CSS3",
+            "SASS",
+            "LESS",
+            "Git",
+            "Ruby",
+            "PHP",
+            "Wireframe",
+            "Spanish",
+            "French"
+        ]
+    },
+    "projects":
+    [
+        {
+            "title": "Project Lorem Ipsum",
+            "tech": "AngularJS",
+            "image":"portfolio-1.jpg",
+            "link": "",
+            "category": "both"
+        },
+        {
+            "title": "Project Lorem Ipsum",
+            "tech": "Django",
+            "image": "portfolio-2.jpg",
+            "link": "",
+            "category": "backend"
+        },
+        {
+            "title": "Project Lorem Ipsum",
+            "tech": "Django/JavaScript",
+            "image": "portfolio-3.jpg",
+            "link": "",
+            "category": "both"
+        },
+        {
+            "title": "Project Lorem Ipsum",
+            "tech": "ReactJS",
+            "image": "portfolio-4.jpg",
+            "link": "",
+            "category": "frontend"
+        },
+        {
+            "title": "Project Lorem Ipsum",
+            "tech": "Python",
+            "image": "portfolio-5.jpg",
+            "link": "",
+            "category": "backend"
+        },
+        {
+            "title": "Project Lorem Ipsum",
+            "tech": "JavaScript",
+            "image": "portfolio-6.jpg",
+            "link": "",
+            "category": "backend"
+        },
+        {
+            "title": "Project Lorem Ipsum",
+            "tech": "HTML/AngularJS",
+            "image": "portfolio-7.jpg",
+            "link": "",
+            "category": "frontend"
+        }
+    ],
+    "intro": 
+    {
+        "dialog": "I'm currently taking on freelance work. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.",
+        "services": 
+        [
+            "App development with ReactJS",
+            "Front-end development with AngularJS",
+            "Back-end development with Django/Python",
+            "UI development",
+            "UX prototyping"
+        ],
+        "contact":
+        {
+            "linkedin":"",
+            "twitter": "",
+            "github": "",
+            "facebook": ""
+        }
+    }
+}
