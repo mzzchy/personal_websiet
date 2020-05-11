@@ -11,7 +11,7 @@ function Intro() {
     return (
         <div class="intro">
 		    <div class="container text-center">
-			    <img class="profile-image" src={require("images/profile-image.png")}/>
+			    <img class="profile-image" src={require("images/profile-image.png")} alt="" />
 				<h1 class="name">{name}</h1>
 				<div class="title">{jobTitle}</div>
 			    <div class="profile">

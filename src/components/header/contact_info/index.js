@@ -16,7 +16,7 @@ function Contact_info() {
 			<ul class="list-inline">
 				<li class="email"><EmailIcon/><a href={emailHref}>{email}</a></li>
 				<li class="phone"><PhoneIcon/><a href={"tel:" + phone}>{phone_str}</a></li>
-				<li class="website"><PublicIcon/><a href={website} target="_blank">{website}</a></li>
+				<li class="website"><PublicIcon/><a href={website}>{website}</a></li>
 			</ul>
 	    </div>
     );

@@ -13,7 +13,7 @@ function Project(props){
 	let category = project["category"];
 	let link = project["link"];
 
-	if(props.selected != "both" && category != "both" && category != props.selected) {
+	if(props.selected !== "both" && category !== "both" && category !== props.selected) {
 		return null;
 	};
 
@@ -21,7 +21,7 @@ function Project(props){
 		<div class={"item " + category + " col-md-3 col-xs-6 "}>
 			<div class="item-inner">
 				<figure class="figure">
-					<img class="img-responsive" src={ require('images/portfolio/'+ image)} />
+					<img class="img-responsive" src={ require('images/portfolio/'+ image)} alt=""/>
 				</figure>
 				<div class="content text-left">
 					<h3 class="sub-title"><a href="#">{title}</a></h3>
